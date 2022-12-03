@@ -1,9 +1,11 @@
 def main(path):
     f = open(path, "r")
     print("Part 1:")
-    part1(path)
+    part1(f)
+    f.close()
+    f = open(path, "r")
     print("Part 2:")
-    part2(path)
+    part2(f)
 
 
 def part1(f):
