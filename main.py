@@ -8,5 +8,6 @@ import AdventCalendar.day7 as aoc7
 import AdventCalendar.day8 as aoc8
 import AdventCalendar.day9 as aoc9
 import AdventCalendar.day10 as aoc10
+import AdventCalendar.day11 as aoc11
 if __name__ == '__main__':
-    aoc10.main("data/aoc22_10_1.txt")
+    aoc11.main("data/aoc22_11_1.txt")
