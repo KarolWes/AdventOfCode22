@@ -19,7 +19,8 @@ import AdventCalendar.day18 as aoc18
 import AdventCalendar.day19 as aoc19
 import AdventCalendar.day20 as aoc20
 import AdventCalendar.day21 as aoc21
+import AdventCalendar.day22 as aoc22
 
 
 if __name__ == '__main__':
-    aoc19.main('data/test')
+    aoc22.main('data/aoc22_22_1.txt')
