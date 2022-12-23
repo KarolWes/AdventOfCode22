@@ -24,4 +24,4 @@ import AdventCalendar.day23 as aoc23
 
 
 if __name__ == '__main__':
-    aoc23.main('data/test')
+    aoc23.main('data/aoc22_23_1.txt')
